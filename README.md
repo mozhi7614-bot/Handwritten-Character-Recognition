@@ -21,4 +21,4 @@ MNIST Dataset
 Approximately 98-99%
 
 ## Author
-Your Name
+kanimozhi
