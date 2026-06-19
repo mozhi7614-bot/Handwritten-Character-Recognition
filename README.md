@@ -1,2 +1,24 @@
-# Handwritten-Character-Recognition
-A Deep Learning project that uses a Convolutional Neural Network (CNN) trained on the MNIST dataset to recognize handwritten digits. The model can predict both MNIST test images and custom handwritten digit images through image preprocessing and classification.
+# Handwritten Character Recognition
+
+This project uses a Convolutional Neural Network (CNN) to recognize handwritten digits.
+
+## Dataset
+MNIST Dataset
+
+## Technologies
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+
+## Features
+- Train CNN model
+- Predict handwritten digits
+- Test custom uploaded images
+
+## Accuracy
+Approximately 98-99%
+
+## Author
+Your Name
